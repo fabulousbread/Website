@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(255, 213, 234)
+}
+.large-image {
+width: 1100;
+        height: auto;
+       
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+   position: relative;
+  top: -150px;
+}
+img{
+    width: 425;
+    height: auto;
+    padding: 20px; 
+    position: relative;
+
+    }
